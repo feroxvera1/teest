@@ -2,9 +2,9 @@ package ru.javacore;
 
 public class Tester {
 
-    int years;
-    int english;
-    double pay;
+    int expirianceInYears;
+    int englishlvl;
+    double salary;
     String name;
     String surname;
 
